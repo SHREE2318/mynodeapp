@@ -8,9 +8,9 @@ const app = express();
 app.get('/', (req, res) => {
 
 <<<<<<< HEAD
-  res.send('Welcome to  Nodejs App');
+  res.send('HELLO FROM SHREE');
 =======
-  res.send('Hello from Nodejs App');
+  res.send(' HELLO FROM SHREE');
 >>>>>>> 8b624e56524b68629d2851016907b262f022208d
 
 });
